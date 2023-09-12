@@ -3,9 +3,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        System.out.println("Hello and welcome! You are in the last exercise of class-01");
-        System.out.println("------------------------------------------------------------");
-
         int num;
 
         do {
@@ -20,8 +17,6 @@ public class Main {
         for (int i = 1; i <= num; i++) {
             factorial *= i;
         }
-
         System.out.println("O fatorial de " + num + " é: " + factorial);
-
     }
 }
