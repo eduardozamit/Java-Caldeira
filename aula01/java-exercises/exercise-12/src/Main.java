@@ -3,9 +3,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        System.out.println("Hello and welcome! You are in the 12 exercise of class-01");
-        System.out.println("------------------------------------------------------------");
-
         float dolar;
         float quotation;
 
@@ -24,8 +21,6 @@ public class Main {
                 System.out.println("Digite um valor válido por gentileza!");
             }
         } while (quotation < 0);
-
         System.out.println("O valor de " + dolar + " dólares em Reais é de: " + (dolar * quotation));
-
     }
 }
