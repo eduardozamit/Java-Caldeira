@@ -7,9 +7,6 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         Calendar calendar = Calendar.getInstance(TimeZone.getTimeZone("Brazil/East"));
         int currentYear = calendar.get(Calendar.YEAR);
-        System.out.println("Hello and welcome! You are in the 09 exercise of class-01");
-        System.out.println("------------------------------------------------------------");
-
         int age;
 
         do {
