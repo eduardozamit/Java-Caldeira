@@ -3,9 +3,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        System.out.println("Hello and welcome! You are in the 03 exercise of class-01");
-        System.out.println("------------------------------------------------------------");
-
         int[] numbs = new int[3];
 
         for (int i = 0; i < 3; i++) {
