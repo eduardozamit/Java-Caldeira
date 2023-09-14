@@ -9,11 +9,15 @@ public class Main {
         System.out.println("Digite o segundo número: ");
         int num2 = scan.nextInt();
 
+        int count;
+
         for (int i = num1; i <= num2; i++) {
             System.out.println(i);
-            for (int j = num1; j < num2; j++) {
-                if(i % j == 0 && i < 1);
+            for (int j = 2; j <= num2; j++) {
+                System.out.println(j);
+                if () {
 
+                }
             }
         }
     }
