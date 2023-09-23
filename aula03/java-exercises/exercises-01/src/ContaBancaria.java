@@ -76,4 +76,8 @@ public class ContaBancaria {
         System.out.printf("Saldo atual: R$%.2f%n", saldo);
         System.out.printf("Horário atual: %02d:%02d%n", horarioAtual.getHours(), horarioAtual.getMinutes());
     }
+
+    public void setCpf() {
+
+    }
 }
