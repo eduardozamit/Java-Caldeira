@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91b4e45e-8506-43e2-a3f3-01880c4ede2a" name="Changes" comment="att">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="91b4e45e-8506-43e2-a3f3-01880c4ede2a" name="Changes" comment="att" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +28,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/zamit/OneDrive/Documentos/dev/geracao-caldeira/Java-Caldeira/aula04/java-exercises/exercise-02"
+    "last_opened_file_path": "C:/Users/zamit/OneDrive/Documentos/dev/geracao-caldeira/Java-Caldeira/aula05/java-exercises/exercise-02"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

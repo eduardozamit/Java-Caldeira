@@ -9,7 +9,8 @@ public class Main {
         boolean acertou = false;
 
         for (int i = 0; i < ar.length; i++) {
-            ar[i] = 1 + random.nextInt(50);
+            ar[i] = 1 + random.nextInt(100);
+            System.out.println(ar[i]);
         }
 
         do {
