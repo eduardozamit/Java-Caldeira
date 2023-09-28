@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91b4e45e-8506-43e2-a3f3-01880c4ede2a" name="Changes" comment="att" />
+    <list default="true" id="91b4e45e-8506-43e2-a3f3-01880c4ede2a" name="Changes" comment="att">
+      <change beforePath="$PROJECT_DIR$/../exercise-01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-01/exercise-01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-01/src/ContaBancaria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-01/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-02/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-02/exercise-02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-02/src/Circulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-02/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises-01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercises-01/ContaBancaria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercises-01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../aula04/java-exercises/exercise-01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../aula04/java-exercises/exercise-01/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +45,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
   <component name="ProjectId" id="2VgbcaSADKvWOK168LKywj3SdT4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,6 +56,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/zamit/OneDrive/Documentos/dev/geracao-caldeira/Java-Caldeira/aula05/java-exercises/exercise-02"
   }
 }]]></component>
