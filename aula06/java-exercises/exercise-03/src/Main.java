@@ -1,5 +1,7 @@
+import java.util.TreeMap;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        TreeMap<Integer, String> listaTelefonica = new TreeMap<>()
     }
 }
