@@ -3,7 +3,7 @@ import java.util.Map;
 
 public class Main {
     public static void main(String[] args) {
-        LinkedHashMap<String, Double> products = new LinkedHashMap<>();
+        Map<String, Double> products = new LinkedHashMap<>();
 
         products.put("Banana", 2.99);
         products.put("Maça", 4.56);
