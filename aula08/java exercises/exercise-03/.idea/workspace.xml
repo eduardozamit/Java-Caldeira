@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="715a1a87-b64e-42c8-951e-0c7377605414" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../exercise-01/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercises-01/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercises-01/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercises-01/src/ContaBancaria.java" beforeDir="false" />
-    </list>
+    <list default="true" id="6e9d612f-c027-4cf3-b37d-a1fb9579c836" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,9 +23,9 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectId" id="2VgfNJGQ1A5zxoIt4LnrUTJpSLJ" />
+  <component name="ProjectId" id="2X5hphYurEwqRcrdp23wGfV6bI6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,18 +34,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/zamit/OneDrive/Documentos/dev/geracao-caldeira/Java-Caldeira/aula03/exercise-02"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="715a1a87-b64e-42c8-951e-0c7377605414" name="Changes" comment="" />
-      <created>1695262604307</created>
+      <changelist id="6e9d612f-c027-4cf3-b37d-a1fb9579c836" name="Changes" comment="" />
+      <created>1697925034426</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1695262604307</updated>
+      <updated>1697925034426</updated>
     </task>
     <servers />
   </component>

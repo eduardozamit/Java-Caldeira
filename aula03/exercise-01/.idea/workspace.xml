@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="796be0fb-f562-45e6-862c-9ee7171f1f35" name="Changes" comment="" />
+    <list default="true" id="d53e92ff-b2d4-4a1b-89cc-1c5bdbc6f965" name="Changes" comment="Atualização do exercício Conta bancária">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise-02/.idea/exercise-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise-02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise-02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula04/exercise-03/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula04/exercise-03/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula04/exercise-03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula04/exercise-03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula04/exercise-03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula04/exercise-03/exercise-03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula04/exercise-03/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula08/java exercises/exercise-03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula08/java exercises/exercise-03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise-02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises-01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises-01/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises-01/src/ContaBancaria.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,29 +43,37 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="2Vb5Vp8ydZD3Javyd5Z8ht1OHPj" />
+  <component name="ProjectId" id="2XB1ohuIrMChnieOtdVE31PCuX1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/zamit/OneDrive/Documentos/dev/geracao-caldeira/Java-Caldeira/aula03/java-exercises/exercises-01&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="796be0fb-f562-45e6-862c-9ee7171f1f35" name="Changes" comment="" />
-      <created>1695091968523</created>
+      <changelist id="d53e92ff-b2d4-4a1b-89cc-1c5bdbc6f965" name="Changes" comment="" />
+      <created>1698087837145</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1695091968523</updated>
+      <updated>1698087837145</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Atualização do exercício Conta bancária" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização do exercício Conta bancária" />
   </component>
 </project>
