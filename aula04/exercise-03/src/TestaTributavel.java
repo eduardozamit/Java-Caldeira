@@ -10,7 +10,6 @@ public class TestaTributavel {
 
         GerenciadorDeImpostoDeRenda gerenciador = new GerenciadorDeImpostoDeRenda();
         gerenciador.adicionar(cc);
-        gerenciador.adicionar((Tributavel) cp);
         gerenciador.adicionar(sv);
 
         System.out.println("Total de tributos a serem pagos: " + gerenciador.getTotalTributos());
